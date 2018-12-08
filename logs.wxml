@@ -1,0 +1,6 @@
+<input id="input" placeholder="输入密码" 
+placeholder-style="font-size:15px; color:#bfbfbf;" 
+style="font-weight:bolder; font-size:15px; color:#000000; padding-left: 30rpx"
+  bindinput="change"/>
+<button id="btn3" style="opacity: {{opacity}}" 
+disabled="{{disabled}}" bindtap="send">hhh</button>
