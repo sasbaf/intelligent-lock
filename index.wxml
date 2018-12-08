@@ -1,0 +1,1 @@
+<button bindtap="send">点我</button>
